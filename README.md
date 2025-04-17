@@ -1,4 +1,4 @@
-# Daily planner using pretrained model
+# AI Daily Planner
 
 The AI Daily Planner is a Python-based CLI tool that uses a lightweight pretrained language model (DistilGPT-2) to generate intelligent, time-aware daily schedules based on user-inputted tasks and available time ranges. If the model output is unreliable, a deterministic fallback algorithm ensures a valid schedule is always produced.
 
