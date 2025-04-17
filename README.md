@@ -32,7 +32,7 @@ re: for parsing and validation
 Model: distilgpt2 (lightweight GPT-2 variant) from HuggingFace
 ---
 # example
-( insert ss)
+![image](https://github.com/user-attachments/assets/0d33d6a7-1a5d-41fa-92fb-71e2c8633ed7)
 
 ---
 # future improvement
@@ -47,8 +47,9 @@ Persistent storage (e.g., SQLite, Firebase)
 
 ---
 # How to use
-
+```bash
 pip install transformers
 python app.py
+```
 
 ---
